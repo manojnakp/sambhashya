@@ -14,7 +14,7 @@ keywords = ["blog", "hugo", "tech", "golang", "coding", "computer-science"] # Se
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
 # Google analytics Id
-ga_analytics = ""
+ga_analytics = "G-K2XZ6XSS60"
 
 # Google tag manager
 google_tag_manager_id = ""
