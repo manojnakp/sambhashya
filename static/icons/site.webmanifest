@@ -1,0 +1,14 @@
+{
+    "name": "Sambhashya",
+    "short_name": "Blog",
+    "icons": [
+        {
+            "src": "./android-chrome-180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#7E3794",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

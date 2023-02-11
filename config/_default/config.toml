@@ -1,0 +1,23 @@
+baseURL = 'https://example.org/'
+title = 'Sambhashya'
+
+copyright = 'Manojna'
+defaultContentLanguage = "en"
+paginate = 10
+disqusShortname = ''
+
+[permalinks]
+post = "/perma/:year/:month/:slug"
+
+[module]
+[[module.imports]]
+path = 'github.com/chipzoller/hugo-clarity'
+disable = false
+
+[taxonomies]
+topic = "topics"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

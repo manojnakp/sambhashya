@@ -1,0 +1,18 @@
+body {
+	--font: 'Patrick Hand', cursive, sans-serif;
+	font-size: 1.2rem;
+	letter-spacing: 0.1ch;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: Neucha, cursive, sans-serif;
+	font-variant: small-caps;
+	font-weight: bold;
+	letter-spacing: 0.2ch;
+}
+
+@media screen and (min-width: 42rem) {
+	.content {
+		width: 80%;
+	}
+}
