@@ -5,6 +5,7 @@ copyright = 'Manojna'
 defaultContentLanguage = "en"
 paginate = 10
 disqusShortname = ''
+canonifyURLs = true
 
 [permalinks]
 post = "/perma/:year/:month/:slug"
